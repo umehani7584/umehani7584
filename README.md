@@ -111,3 +111,56 @@ const UmeHani = {
 ---
 
 ## 🎯 Currently Working On
+---
+
+## 🌟 What I Bring to the Table
+
+<div align="center">
+
+| Skill | Level |
+|-------|-------|
+| ⚛️ React.js | ████████░░ Advanced |
+| 🎨 CSS / Styling | ████████░░ Advanced |
+| 📜 JavaScript | ███████░░░ Intermediate |
+| 🔀 React Router | ███████░░░ Intermediate |
+| 📊 Recharts | ██████░░░░ Intermediate |
+| 🔄 Redux | █████░░░░░ Learning |
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umehani7584@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ume-hani-)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umehani7584)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
+
+<div align="center">
+
+⭐ **If you like my work, consider giving a star to my repos!** ⭐
+
+**Made with ❤️ by Ume Hani**
+
+</div>
