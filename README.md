@@ -111,23 +111,25 @@ const UmeHani = {
 ---
 
 ## 🎯 Currently Working On
----
+
+🔨 **IoT Smart Garbage Monitoring System (FYP)**
+
+- 📱 React Frontend Dashboard
+- 📊 Real-time Data Visualization  
+- 👷 Workers Management Module
+- 🗑️ Bins Management Module
+- 📈 Analytics & Reports Module
 
 ## 🌟 What I Bring to the Table
 
-<div align="center">
-
 | Skill | Level |
 |-------|-------|
-| ⚛️ React.js | ████████░░ Advanced |
-| 🎨 CSS / Styling | ████████░░ Advanced |
-| 📜 JavaScript | ███████░░░ Intermediate |
-| 🔀 React Router | ███████░░░ Intermediate |
-| 📊 Recharts | ██████░░░░ Intermediate |
-| 🔄 Redux | █████░░░░░ Learning |
-
-</div>
-
+| ⚛️ React.js | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ Advanced |
+| 🎨 CSS / Styling | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ Advanced |
+| 📜 JavaScript | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ Intermediate |
+| 🔀 React Router | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ Intermediate |
+| 📊 Recharts | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ Intermediate |
+| 🔄 Redux | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ Learning |
 ---
 
 ## 🤝 Connect With Me
